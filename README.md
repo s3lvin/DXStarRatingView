@@ -1,6 +1,7 @@
 DXStarRatingView
 ================
 ![DXStarRatingView](http://s26.postimg.org/ijmf9zbc9/i_OS_Simulator_Screen_shot_May_7_2014_6_17_09_P.png)
+
 Simple and easy to use StarRatingView for iOS
 
 ### Steps to use:
