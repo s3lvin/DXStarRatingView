@@ -45,7 +45,8 @@
     
     /*
      Style 2:
-     This could be helpful for anyplace other than inside a tableview cell. For example,
+     This could be helpful for anyplace other than inside a tableview cell. Although there is no reason not to use it inside a tableview cell.
+     For example,
      Right now its being used in a viewDidLoad method which is perfectly comfortable to
      recieve the ratings changed callback.
      */
@@ -56,7 +57,6 @@
     /*
      Note: Its by design you can have both types of callbacks
      */
-    
 }
 
 - (void)didChangeRating:(NSNumber*)newRating
