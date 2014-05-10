@@ -29,3 +29,9 @@ In viewDidLoad or wherever you want to configure the star rating view, add the f
 `[self.starRatingView setStars:4 callbackBlock:^(NSNumber *newRating) {
         NSLog(@"didChangeRating: %@",newRating);
 }];`
+
+### License
+
+MIT Licensed
+
+http://opensource.org/licenses/MIT
